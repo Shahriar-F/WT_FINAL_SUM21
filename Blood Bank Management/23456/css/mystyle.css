@@ -1,0 +1,26 @@
+body {
+  background-color: 21563d;
+  color: white;
+  font-family: consolas;
+ }
+  
+
+
+
+.header-index{
+	position:relative;
+	left:0;
+	top:0;
+	width: 100%;
+	background-color: black;
+	color: white;
+	font-family:consolas;
+	padding:5px;
+	
+} 
+
+		
+}
+.btn{
+	font-family:consolas;
+}
